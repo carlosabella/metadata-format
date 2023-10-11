@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ACTIVATE_USERS</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ACTIVATE USERS</shortDescription>
+        <value>Activate users</value>
+    </labels>
+    <labels>
+        <fullName>carlos</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>carlos</shortDescription>
+        <value>carlos</value>
+    </labels>
+    <labels>
+        <fullName>elena</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>elena</shortDescription>
+        <value>elena my love</value>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>newobject</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>newobjects</value>
+    </caseValues>
+    <fields>
+        <label><!-- Check Post Proceesing --></label>
+        <name>Check_Post_Proceesing__c</name>
+    </fields>
+    <gender>Feminine</gender>
+</CustomObjectTranslation>
